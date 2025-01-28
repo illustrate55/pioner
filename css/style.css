@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    font-family: "Source Sans 3", serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    transition: .2s ease;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 35px;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 36px;
+    border-bottom: #888888 1px solid;
+}
+
+.contact-inner {
+    display: flex;
+    text-align: end;
+    gap: 40px;
+}
+
+.contact-title {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    color: #333333;
+}
+
+.contact-link {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28.48px;
+    color: #607CE6;
+}
+
+/* NAV */
+
+.nav {
+    padding-top: 16px;
+}
+
+.nav-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    display: flex;
+    gap: 44px;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.nav__contact-inner {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.contact-tel {
+    color: #607CE6;
+    text-transform: uppercase;
+}
