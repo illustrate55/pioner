@@ -157,3 +157,90 @@ a:hover {
 .about-the-company-img {
     max-width: 580px;
 }
+
+.products {
+    margin-top: 80px;
+}
+
+.products-title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    color: #333333;
+}
+
+.products-inner {
+    margin-top: 32px;
+    display: flex;
+    gap: 20px;
+}
+
+.products-item {
+    padding-top: 32px;
+    padding-left: 24px;
+    background-color: #F5F5F5;
+}
+
+.products-item3 {
+    padding-top: 55px;
+}
+
+.product-img {
+    padding-right: 156px;
+}
+
+.product-item-title {
+    margin-top: 107px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 33.6px;
+    color: #333333;
+}
+
+.products-link {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #607CE6;
+    padding-bottom: 32px;
+}
+
+.products-item2 {
+    margin-top: 25px;
+}
+
+.product-item-title-margin2 {
+    margin-top: 152px;
+}
+
+.product-item-title-margin3 {
+    margin-top: 166px;
+}
+
+.product-item-title-margin4 {
+    margin-top: 160px;
+}
+
+.product-item-title-margin5 {
+    margin-top: 143px;
+}
+
+.product-item-title-margin6 {
+    margin-top: 163px;
+}
+
+.representative-offices {
+    margin-top: 80px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    color: #333333;
+}
+
+.representative-offices-img {
+    margin-top: 32px;
+}
