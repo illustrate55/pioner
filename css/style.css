@@ -83,3 +83,77 @@ a:hover {
     color: #607CE6;
     text-transform: uppercase;
 }
+
+/* MAIN */
+
+.main {
+    margin-top: 80px;
+}
+
+.main-text-info {
+    display: flex;
+    gap: 20px;
+}
+
+.main-title {
+    max-width: 580px;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 72px;
+    color: #333333;
+}
+
+.main-disc {
+    margin-top: 26px;
+    max-width: 379px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color: #333333;
+}
+
+.main-img {
+    margin-top: 32px;
+}
+
+/* SECTIONS */
+
+.about-the-company {
+    margin-top: 80px;
+}
+
+.about-the-company-title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    color: #333333;
+}
+
+.about-the-company-text-inner {
+    margin-top: 32px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.about-the-company-disc {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #333333;
+}
+
+.about-the-company-disc2 {
+    margin-top: 24px;
+}
+
+.about-the-company-img-inner {
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.about-the-company-img {
+    max-width: 580px;
+}
